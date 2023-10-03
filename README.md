@@ -1,5 +1,5 @@
 Настройка стенда для тестирования Helm Chart:
-Часть пнуктов не работает без VPN из-за санкций.
+Часть пунктов не работает без VPN из-за санкций.
 1. Ставим Kind
 curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.11.1/kind-linux-amd64
 chmod +x ./kind
